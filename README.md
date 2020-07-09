@@ -1,8 +1,5 @@
 ### Hi there 👋💥
 
-<!--
-**wjbright/wjbright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Welcome to my page! 😎
 I'm the guy you go to to get things done. I typically build MVPs with 3 days 😬
 
