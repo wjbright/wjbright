@@ -1,7 +1,7 @@
 ### Hi there 👋💥
 
 Welcome to my page! 😎
-I'm the guy you go to to get things done. I typically build MVPs with 3 days 😬
+I'm the guy you go to to get things done. I typically build MVPs within 3 days 😬
 
 - 🔭 I’m currently working on tools that bring efficiency in the logistics space through haulr.ng
 - 🌱 I’m currently learning how to balance my life more 😂
