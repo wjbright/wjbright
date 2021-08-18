@@ -3,7 +3,7 @@
 Welcome to my page! 😎
 I'm the guy you go to to get things done. I typically build MVPs within 3 days 😬
 
-- 🔭 I’m currently working on making saving an unconscious habit
+- 🔭 I’m currently working on making saving an unconscious habit @ mystash.ng
 - 🌱 I’m currently learning how to balance my life more 😂
 - 👯 I’m looking to collaborate on any cool project you think we can work on together
 - 📫 brightasima@gmail.com
